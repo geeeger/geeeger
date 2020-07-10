@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 
 
-![](./mercy.jpg)
+![](https://raw.githubusercontent.com/geeeger/geeeger/master/mercy.jpg)
