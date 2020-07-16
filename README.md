@@ -31,5 +31,9 @@ Here are some ideas to get you started:
 
 ![geeeger github status](https://github-readme-stats.vercel.app/api?username=geeeger&show_icons=true)
 
+👇骚不骚？
+
+![ws-uploader](https://github-readme-stats.vercel.app/api/pin?username=geeeger&repo=ws-uploader&title_color=00ffcb&icon_color=003f34&text_color=d9d9d9&bg_color=ffc0cb)
+
 
 ![](https://raw.githubusercontent.com/geeeger/geeeger/master/mercy.jpg)
