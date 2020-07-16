@@ -27,6 +27,9 @@ Here are some ideas to get you started:
   + qq: 252554449
   + email: lph1988520@sina.com
 
+👇下面是测试[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+![geeeger github status](https://github-readme-stats.vercel.app/api?username=geeeger&show_icons=true)
 
 
 ![](https://raw.githubusercontent.com/geeeger/geeeger/master/mercy.jpg)
