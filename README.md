@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 👇骚不骚？
 
-![ws-uploader](https://github-readme-stats.vercel.app/api/pin?username=geeeger&repo=ws-uploader&title_color=c65495&icon_color=c65495&text_color=5c969b&bg_color=ffc0cb)
+[![ws-uploader](https://github-readme-stats.vercel.app/api/pin?username=geeeger&repo=ws-uploader&title_color=c65495&icon_color=c65495&text_color=5c969b&bg_color=ffc0cb)](https://github.com/geeeger/ws-uploader)
 
 
 ![](https://raw.githubusercontent.com/geeeger/geeeger/master/mercy.jpg)
